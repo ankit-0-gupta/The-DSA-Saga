@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/java-hello-world4004/1
+// https://practice.geeksforgeeks.org/problems/java-hello-world4004/1
 
 
 class Solution
